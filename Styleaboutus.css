@@ -16,6 +16,13 @@ img {
 div {
   padding: 0px;
 }
+.us {
+  background-color: pink;
+  margin:50px;
+  padding:30px;
+  height:25vh;
+  width:10vw;
+}
 
 img {
   height: 150px;
